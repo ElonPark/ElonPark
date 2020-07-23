@@ -5,7 +5,7 @@
 Hi, I'm Elon Park, a iOS App developer.
 
 - 🔭 I’m currently working on my project [RIBsReactorKit](https://github.com/ElonPark/RIBsReactorKit)
-- 🌱 I’m currently learning RIBs & ReactorKit & SwiftUI & Go & many more
+- 🌱 I’m currently learning RIBs & ReactorKit & SwiftUI & Go & many more!
 - 💬 Ask me about anything [here](https://github.com/ElonPark/ElonPark/issues)
 
 **Languages and Tools:**  
