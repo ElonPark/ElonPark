@@ -1,7 +1,6 @@
 ### Hi there, I'm [Elon Park!](https://elonpark.github.io) 👋
 
 <br />
-<br />
 
 Hi, I'm Elon Park, a iOS App developer.
 
@@ -20,13 +19,16 @@ Hi, I'm Elon Park, a iOS App developer.
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=ElonPark&show_icons=true&theme=radical&line_height=27" alt="Anurag's github stats" />
 </a>
 <br />
-<a href="https://github.com/ElonPark/RIBsReactorKit">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ElonPark&repo=RIBsReactorKit&theme=radical" />
-</a>    
-<br />
+<br />   
 <a href="https://github.com/ElonPark/EPLogger">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ElonPark&repo=EPLogger&theme=radical" />
 </a>
 <a href="https://github.com/ElonPark/AttributedStringSugarr">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ElonPark&repo=AttributedStringSugar&theme=radical" />
 </a>
+
+#### Currently working on
+<br />
+<a href="https://github.com/ElonPark/RIBsReactorKit">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ElonPark&repo=RIBsReactorKit&theme=radical" />
+</a> 
