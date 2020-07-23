@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 I’m Elon Park
 
 <!--
 **ElonPark/ElonPark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working on iOS App development!
+
+![Elon's github stats](https://github-readme-stats.vercel.app/api?username=ElonPark&show_icons=true&theme=radical)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ElonPark)](https://github.com/anuraghazra/github-readme-stats)
