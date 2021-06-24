@@ -16,7 +16,7 @@ Hi, I'm Elon Park, a iOS App developer.
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/java/java.png"></code>
 <br />
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ElonPark&show_icons=true&theme=radical&line_height=27" alt="Elon's github stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ElonPark&show_icons=true&theme=radical&line_height=27&count_private=true" alt="Elon's github stats" />
 </a>
 
 <br />
