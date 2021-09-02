@@ -9,11 +9,12 @@ Hi, I'm Elon Park, a iOS App developer.
 - 💬 Ask me about anything [here](https://github.com/ElonPark/ElonPark/issues)
 
 **Languages and Tools:**  
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/ios/ios.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/swift/swift.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ruby/ruby.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/java/java.png"></code>
+<code><img height="20" src="https://img.shields.io/badge/iOS-000000?style=flat-squaree&logo=Apple&logoColor=white"></code>
+<code><img height="20" src="https://img.shields.io/badge/Swift-FA7343?style=flat-squaree&logo=Swift&logoColor=white"></code>
+<code><img height="20" src="https://img.shields.io/badge/RxSwift-B7178c?style=flat-squaree&logo=ReactiveX&logoColor=white"></code>
+<code><img height="20" src="https://img.shields.io/badge/Python-3776AB?style=flat-squaree&logo=Python&logoColor=white"></code>
+<code><img height="20" src="https://img.shields.io/badge/Ruby-CC342D?style=flat-squaree&logo=Ruby&logoColor=white"></code>
+<code><img height="20" src="https://img.shields.io/badge/Java-007396?style=flat-squaree&logo=Java&logoColor=white"></code>
 <br />
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=ElonPark&show_icons=true&theme=radical&line_height=27&count_private=true" alt="Elon's github stats" />
