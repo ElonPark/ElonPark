@@ -3,7 +3,7 @@
 <br />
 Hi, I'm Elon Park, a iOS App developer.
 
-- 🔭 I’m currently working on my project [BookStoreTexture](https://github.com/ElonPark/BookStoreTexture), [MiniSuperApp](https://github.com/ElonPark/MiniSuperApp), [RIBsReactorKit](https://github.com/ElonPark/RIBsReactorKit)
+- 🔭 I’m currently working on my project [RIBsReactorKit](https://github.com/ElonPark/RIBsReactorKit), [MiniSuperApp](https://github.com/ElonPark/MiniSuperApp), [BookStoreTexture](https://github.com/ElonPark/BookStoreTexture)
 - 🌱 I’m currently learning RIBs & CleanSwift & FlexLayout & many more!
 - 💬 Ask me about anything [here](https://github.com/ElonPark/ElonPark/issues)
 
