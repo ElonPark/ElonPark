@@ -1,7 +1,15 @@
 ### Hi there, I'm [Elon Park!](https://elonpark.github.io) 👋
+I'm working in [Karrot](https://github.com/daangn)! :carrot:
 
+<img src="https://github.com/GeekTree0101/Geektree0101/blob/master/hire.png" width=500pt />
+
+- [모바일플랫폼에 진심인 iOS 엔지니어로 성장하러 가기 👍](https://team.daangn.com/jobs/5282170003/)
+- [디자인시스템에 진심인 iOS 엔지니어로 성장하러 가기 👍](https://team.daangn.com/jobs/5296539003/)
+- [망설이시고 계신가요? 티타임 환영해요!](https://www.linkedin.com/in/hyeonsu-ha-7ba02b112/)
+
+---
 <br />
-Hi, I'm Elon Park, a iOS App developer.
+Hi, I'm Elon Park, a iOS Software Engineer.
 
 - 🔭 I’m currently working on my project [RIBsReactorKit](https://github.com/ElonPark/RIBsReactorKit), [MiniSuperApp](https://github.com/ElonPark/MiniSuperApp), [BookStoreTexture](https://github.com/ElonPark/BookStoreTexture)
 - 🌱 I’m currently learning RIBs & CleanSwift & FlexLayout & many more!
