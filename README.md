@@ -10,8 +10,8 @@ I'm working in [Karrot](https://github.com/daangn)! :carrot:
 <br />
 Hi, I'm Elon Park, a iOS Software Engineer.
 
-- 🔭 I’m currently working on my project [RIBsReactorKit](https://github.com/ElonPark/RIBsReactorKit), [MiniSuperApp](https://github.com/ElonPark/MiniSuperApp), [BookStoreTexture](https://github.com/ElonPark/BookStoreTexture)
-- 🌱 I’m currently learning RIBs & CleanSwift & FlexLayout & many more!
+- 🔭 I’m currently working on my toy project [RIBsReactorKit](https://github.com/ElonPark/RIBsReactorKit), [MiniSuperApp](https://github.com/ElonPark/MiniSuperApp)
+- 🌱 I’m currently learning Go & Rust & many more!
 - 💬 Ask me about anything [here](https://github.com/ElonPark/ElonPark/issues)
 
 **Languages and Tools:**  
